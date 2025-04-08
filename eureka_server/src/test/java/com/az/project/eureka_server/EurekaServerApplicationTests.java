@@ -1,10 +1,10 @@
-package com.az.project.backend_chat_api;
+package com.az.project.eureka_server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BackendChatApiApplicationTests {
+class EurekaServerApplicationTests {
 
 	@Test
 	void contextLoads() {
